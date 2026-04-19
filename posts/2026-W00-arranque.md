@@ -6,7 +6,7 @@
 
 ## Qué estoy haciendo
 
-Tengo 26 años. Soy ingeniero civil en computación chileno y trabajo como dev full-stack / arquitecto. En abril de 2026 decidí algo incómodo: quiero convertirme en científico de **neurociencia computacional / NeuroAI** en los próximos 24 meses.
+Tengo 26 años. Soy ingeniero civil en computación chileno y trabajo como dev full-stack - Arquitecto AI  / arquitecto. En abril de 2026 decidí algo incómodo: quiero convertirme en científico de **neurociencia computacional / NeuroAI** en los próximos 24 meses.
 
 La meta concreta: aplicar a **Research Engineer** en DeepMind, Anthropic, Neuralink o un lab BCI. Si eso no cuaja, un **PhD financiado en Europa** (ETH, Max Planck, UCL Gatsby, EPFL).
 
@@ -14,13 +14,13 @@ La meta concreta: aplicar a **Research Engineer** en DeepMind, Anthropic, Neural
 
 Me interesa el cerebro como objeto computacional. Me interesa la intersección entre foundation models modernos y cómo funcionan las redes biológicas. Me interesa la pregunta de cómo un sistema físico produce representaciones, decisiones, conciencia.
 
-No me interesa como hobby. Me interesa como cambio real de carrera.
+Me interesa la mente humana
 
 ## Cómo
 
 - **10–12 horas semanales** constantes, 104 semanas.
 - **Currículum por capas:** matemáticas → señales → info → ML → DL → transformers → neurociencia → compneuro → BFMs → proyecto.
-- **Gym 4x/semana, sueño 8h, pareja protegida, domingo off.**
+- **Gym 4x/semana, sueño 8h, pareja protegida, domingo off.** (Tambien quiero mantenerme saludable y cuidar mis lazos)
 - **En público:** este repo + un post semanal acá.
 
 ## Por qué en público
@@ -48,3 +48,8 @@ Nos vemos el viernes.
 *Si este proyecto te interesa, suscríbete. Posts cortos, cada viernes, sobre qué aprendí y qué no entendí esa semana. Sin relleno.*
 
 *Repo público: [github.com/SimaCode/neuroai-journey](https://github.com/SimaCode/neuroai-journey)*
+
+---
+
+**Publicado:** 19 abril 2026
+**Link canónico:** [simabrain.substack.com/p/de-full-stack-dev-a-cientifico-de](https://simabrain.substack.com/p/de-full-stack-dev-a-cientifico-de)

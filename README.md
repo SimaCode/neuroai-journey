@@ -46,7 +46,9 @@ Cada viernes publico un post corto (200–500 palabras) con:
 - La conexión que me voló la cabeza.
 - Una pregunta abierta que tengo.
 
-**Substack:** [próximamente]
+**Substack:** [simabrain.substack.com](https://simabrain.substack.com)
+
+**Post 0 — Arranque:** [De full-stack dev a científico de neurociencia computacional](https://simabrain.substack.com/p/de-full-stack-dev-a-cientifico-de)
 
 ## Filosofía del proyecto
 
